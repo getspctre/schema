@@ -2,7 +2,7 @@
 
 Published schema artifacts for [Spctre](https://github.com/getspctre/spctre): versioned JSON Schema documents and the OpenAPI 3.1 specification for the public API.
 
-> **Status: not yet serving.** This repository exists so the registry can be stood up; it is not published at a public URL yet, and nothing should link to it as a live endpoint until it is.
+> **Status: live.** The registry is published at [`https://schema.spctre.dev`](https://schema.spctre.dev). Consumers may use its versioned artifacts and root [`manifest.json`](https://schema.spctre.dev/manifest.json).
 
 ## This content is generated
 
